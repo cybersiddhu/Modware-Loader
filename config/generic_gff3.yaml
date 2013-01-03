@@ -1,0 +1,3 @@
+dsn: 'dbi:Oracle:amazonora'
+user: DPUR_CHADO
+password: DPUR_CHADO

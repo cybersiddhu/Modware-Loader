@@ -1,0 +1,4 @@
+dsn: 'dbi:Oracle:amazonora'
+user: CGM_CHADO_SIDD
+password: CGM_CHADO_SIDD
+log_level: debug

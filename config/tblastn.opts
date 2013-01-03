@@ -1,0 +1,42 @@
+**Cannot read from STDIN**
+modware-transform blast2gbrowsegff3 [-?cilos] [long options...]
+	-? --usage --help        Prints this usage information.
+	-o --output              Name of the output file,  if absent writes
+	                         to STDOUT
+	--merge_contained        Merge HSPs where both of their endpoints are
+	                         completely contained within other. The
+	                         merged HSP will retain attributes of the
+	                         largest one,  default is false. If true, 
+	                         *orf_only* option takes precedence.
+	--max_intron_length      Max intron length threshold for spliting
+	                         hsps into separate hit groups,  only true
+	                         for TBLASTN,  default in none.
+	--orf_only               Activates both start_codon_only and
+	                         remove_stop_codon options,  default is off.
+	                         True for only TBLASTN
+	--start_codon_only       Keep alignments only with start codon, 
+	                         default is off. True for only TBLASTN
+	--remove_stop_codon      Remove stop codon from the alignment, 
+	                         default is off. True for only TBLASTN
+	--log_level              Log level of the logger,  default is error
+	--format                 Type of blast output,  either blast(text) or
+	                         blastxml. For blastxml format the query name
+	                         is parsed from query description
+	-i --input               blast result file if absent reads from STDIN
+	-s --source              the source field of GFF output,  default
+	                         will the algorithm name
+	-c --configfile          yaml config file to specify all command line
+	                         options
+	-l --logfile             Name of logfile,  default goes to STDERR
+	--primary_tag            The type of feature(column3) that will be
+	                         used for grouping, by default it will be
+	                         guessed from the blast algorithm
+	--hit_id_parser          hit id parser for the header line,  default
+	                         is to use none. ncbi_gi, regular and general
+	                         parsers are available
+	--query_id_parser        query id parser for the header line, 
+	                         default is to use none. ncbi_gi , regular
+	                         and general parsers are available
+	--desc_parser            description parser for the header line, 
+	                         default is to use none. ncbi parser is
+	                         available

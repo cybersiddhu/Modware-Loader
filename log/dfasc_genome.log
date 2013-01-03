@@ -1,0 +1,258 @@
+[03-29-2012 05:47] INFO > GenBank.pm:305 - organism Dictyostelium fasciculatum SH3 fasciculatum is already present in database
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928290 Difao_mp01
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp01.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928294
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp01.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928298 Difao_mp02
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp02.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928302
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp02.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928306 Difao_mp03
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp03.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928310
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp03.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928314 Difao_mp04
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp04.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928318
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp04.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928322 Difao_mp05
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp05.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928326
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp05.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928330 Difao_mp06
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp06.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928334
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp06.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928338 Difao_mp07
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp07.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928342
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928344
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp07.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928348 Difao_mp08
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp08.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928352
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp08.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928356 Difao_mp09
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp09.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928360
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp09.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928364 Difao_mp10
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp10.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928368
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp10.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928372 Difao_mp11
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp11.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928376
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp11.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928380 Difao_mp12
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp12.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928384
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp12.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928388 Difao_mt01
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt01.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928392
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928394 Difao_mt02
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt02.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928398
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928400 Difao_mr01
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mr01.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928404
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928406 Difao_mt03
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt03.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928410
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928412 Difao_mt04
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt04.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928416
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928418 Difao_mt05
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt05.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928422
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928424 Difao_mt06
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt06.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928428
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928430 Difao_mt07
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt07.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928434
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928436 Difao_mt08
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt08.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928440
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928442 Difao_mp13
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp13.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928446
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp13.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928450 Difao_mp14
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp14.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928454
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp14.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928458 Difao_mp15
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp15.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928462
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp15.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928466 Difao_mp16
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mp16.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928470
+[03-29-2012 05:47] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp16.p00
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928474 Difao_mt09
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt09.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928478
+[03-29-2012 05:47] INFO > GenBank.pm:596 - loaded gene DFA_G1928480 Difao_mt10
+[03-29-2012 05:47] INFO > GenBank.pm:662 - loaded transcript Difao_mt10.t00
+[03-29-2012 05:47] INFO > GenBank.pm:716 - loaded exon auto1928484
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928486 Difao_mr02
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mr02.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928490
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928492
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928494
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928496
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928498
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928500 Difao_mp17
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp17.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928504
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp17.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928508 Difao_mt11
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mt11.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928512
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928514 Difao_mt12
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mt12.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928518
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928520 Difao_mp18
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp18.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928524
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp18.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928528 Difao_mp19
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp19.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928532
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp19.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928536 Difao_mp20
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp20.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928540
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp20.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928544 Difao_mp21
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp21.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928548
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp21.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928552 Difao_mp22
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp22.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928556
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp22.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928560 Difao_mp23
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp23.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928564
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp23.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928568 Difao_mp24
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp24.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928572
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp24.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928576 Difao_mp25
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp25.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928580
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp25.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928584 Difao_mp26
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp26.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928588
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp26.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928592 Difao_mp27
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp27.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928596
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp27.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928600 Difao_mp28
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp28.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928604
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp28.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928608 Difao_mp29
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp29.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928612
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp29.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928616 Difao_mp30
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp30.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928620
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp30.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928624 Difao_mp31
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp31.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928628
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp31.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928632 Difao_mp32
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp32.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928636
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp32.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928640 Difao_mp33
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp33.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928644
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp33.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928648 Difao_mp34
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp34.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928652
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp34.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928656 Difao_mp35
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp35.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928660
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp35.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928664 Difao_mp36
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp36.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928668
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp36.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928672 Difao_mp37
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp37.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928676
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp37.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928680 Difao_mp38
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp38.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928684
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp38.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928688 Difao_mp39
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp39.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928692
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp39.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928696 Difao_mp40
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp40.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928700
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp40.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928704 Difao_mp41
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp41.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928708
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp41.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928712 Difao_mp42
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp42.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928716
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp42.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928720 Difao_mp43
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp43.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928724
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp43.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928728 Difao_mt13
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mt13.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928732
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928734 Difao_mp44
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp44.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928738
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp44.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928742 Difao_mp45
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp45.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928746
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp45.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928750 Difao_mt14
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mt14.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928754
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928756 Difao_mp46
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp46.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928760
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp46.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928764 Difao_mt15
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mt15.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928768
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928770 Difao_mp47
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp47.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928774
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp47.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928778 Difao_mp48
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mp48.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928782
+[03-29-2012 05:48] INFO > GenBank.pm:777 - loaded polypeptide Difao_mp48.p00
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928786 Difao_mt16
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mt16.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928790
+[03-29-2012 05:48] INFO > GenBank.pm:596 - loaded gene DFA_G1928792 Difao_mt17
+[03-29-2012 05:48] INFO > GenBank.pm:662 - loaded transcript Difao_mt17.t00
+[03-29-2012 05:48] INFO > GenBank.pm:716 - loaded exon auto1928796
+[03-29-2012 05:48] INFO > GenBank.pm:334 - genome D.fasciculatum is already tagged: upgrading version
+[03-29-2012 05:48] INFO > GenBank.pm:995 - linked rest of 2 features
+[03-29-2012 05:48] INFO > GenBank.pm:995 - linked rest of 135 features

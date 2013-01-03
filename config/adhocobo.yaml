@@ -1,0 +1,2 @@
+dsn: 'dbi:SQLite:dbname=/Users/sid/Proj/Modware-Loader/data/chado.sqlite'
+log_level: debug

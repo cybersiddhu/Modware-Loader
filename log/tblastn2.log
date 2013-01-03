@@ -1,0 +1,29 @@
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:259 - hits after resutls filtering DDB0220118 is 14
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus13 hs:55602 he:56255
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus14 hs:77717 he:78340
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus15 hs:303229 he:304076
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus16 hs:1122597 he:1123085
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus17 hs:1129013 he:1130922
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus18 hs:1506403 he:1507272
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus19 hs:1559524 he:1560219
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus110 hs:2150168 he:2150942
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-plus111 hs:2892196 he:2893029
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-minus112 hs:602081 he:602848
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-minus113 hs:921684 he:922547
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-minus114 hs:1133807 he:1135652
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-minus115 hs:1741982 he:1742815
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0220118 hit:DFA1580692-match-minus116 hs:2181206 he:2181940
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:259 - hits after resutls filtering DDB0229915 is 13
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-plus1618 hs:55602 he:56234
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-plus1619 hs:303247 he:304064
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-plus1620 hs:310620 he:311018
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-plus1621 hs:1123898 he:1124524
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-plus1622 hs:1129034 he:1130922
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-plus1623 hs:1559356 he:1560222
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-plus1624 hs:2150174 he:2150942
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-minus1625 hs:602069 he:602827
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-minus1626 hs:921705 he:922550
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-minus1627 hs:1009248 he:1009580
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-minus1628 hs:1133807 he:1135613
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-minus1629 hs:1741997 he:1742824
+[09-24-2012 02:49] WARN > blast2gbrowsegff3.pm:265 - query:DDB0229915 hit:DFA1580692-match-minus1630 hs:2181167 he:2181973

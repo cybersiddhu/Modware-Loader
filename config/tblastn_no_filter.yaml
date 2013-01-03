@@ -1,0 +1,5 @@
+format: blastxml
+query_id_parser: general
+desc_parser: ncbi
+source: 'tblastn.dictyBase'
+
