@@ -442,7 +442,7 @@ sub non_overlapping {
 
 sub _get_uniq_others {
     my ( $self, $hofarray, $skip_idx ) = @_;
-    my @keys = grep { $_ ne $skip_idx } keys %$hofarray;
+    my @keys     = grep     { $_ ne $skip_idx } keys %$hofarray;
     my @restofit = uniq map {@$_} @$hofarray{@keys};
     return @restofit;
 }

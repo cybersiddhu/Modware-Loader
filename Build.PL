@@ -7,12 +7,13 @@ use Module::Build 0.3601;
 
 my %module_build_args = (
   "build_requires" => {
-    "Module::Build" => "0.3601"
+    "Module::Build" => "0.3601",
+    "Test::More" => "0.88"
   },
   "configure_requires" => {
     "Module::Build" => "0.3601"
   },
-  "dist_abstract" => "Data loading modules and scripts for Chado relational database ",
+  "dist_abstract" => "Command line apps for Chado relational database ",
   "dist_author" => [
     "Siddhartha Basu <biosidd\@gmail.com>"
   ],
@@ -27,9 +28,7 @@ my %module_build_args = (
     "Email::Valid" => "0.184",
     "GOBO" => "0.03",
     "Log::Dispatchouli" => "2.005",
-    "Log::Log4perl" => "1.30",
     "Modware" => "0.001",
-    "MooseX::Attribute::Dependent" => "v1.1.2",
     "Spreadsheet::WriteExcel" => "2.37",
     "Text::TablularDisplay" => "1.33",
     "XML::LibXML" => "1.70",
@@ -37,15 +36,16 @@ my %module_build_args = (
   },
   "recursive_test_files" => 1,
   "requires" => {
-    "Bio::Chado::Schema" => "0.09000",
-    "Bio::GFF3" => "0.7",
+    "Bio::Chado::Schema" => "0.20000",
+    "Bio::GFF3::LowLevel" => "1.5",
     "BioPortal::WebService" => "v1.0.0",
+    "DBD::Oracle" => "1.52",
     "File::Find::Rule" => "0.32",
-    "Log::Log4perl" => "1.38",
+    "Log::Log4perl" => "1.40",
     "MooseX::App::Cmd" => "0.06",
+    "MooseX::Attribute::Dependent" => "v1.1.2",
     "MooseX::ConfigFromFile" => "0.02",
-    "MooseX::Getopt" => "0.33",
-    "Throwable" => "0.102080",
+    "MooseX::Getopt" => "0.50",
     "Tie::Cache" => "0.19",
     "perl" => "5.010"
   },

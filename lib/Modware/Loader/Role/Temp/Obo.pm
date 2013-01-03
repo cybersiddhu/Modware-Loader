@@ -103,8 +103,11 @@ sub load_relation_attr_in_tmp {
     my $logger = $self->logger;
     my $schema = $self->chado;
 
-    $logger->log( "going to load ",
-        $self->relation_attr_count, " relation attributes in temp table" );
+    $logger->log(
+        "going to load ",
+        $self->relation_attr_count,
+        " relation attributes in temp table"
+    );
 
     $self->add_relation_attr_header(
         [qw/name relation_value relation_attr/] );

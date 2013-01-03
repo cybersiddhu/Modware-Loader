@@ -1,10 +1,10 @@
 Build.PL
+INSTALL
 LICENSE
 MANIFEST
 MANIFEST.SKIP
 META.json
 META.yml
-README.pod
 bin/chado2dicty_gff3_parallel.sh
 bin/discoideum_tblastn_filter.pl
 bin/modware
@@ -95,7 +95,6 @@ lib/Modware/Loader/Role/Ontology/WithPostgresql.pm
 lib/Modware/Loader/Role/Temp/Obo.pm
 lib/Modware/Loader/Role/Temp/Obo/Oracle.pm
 lib/Modware/Loader/Role/Temp/Obo/Pg.pm
-lib/Modware/Loader/Schema/Result/Temp/Ont.pm
 lib/Modware/Loader/Schema/Temporary.pm
 lib/Modware/MOD/Registry.pm
 lib/Modware/Meta/Attribute/Trait/ClearAfterAccess.pm
@@ -140,6 +139,7 @@ lib/Modware/Update/Command/pubindicty.pm
 maint/bootstrap.sh
 maint/pg2rdbms.pl
 sample_conf/goa2modgaf.yaml
+t/000-report-versions-tiny.t
 t/gaf2chado/annotation.t
 t/gaf2chado/ebi_query.t
 t/gaf2chado/gaf_manager.t

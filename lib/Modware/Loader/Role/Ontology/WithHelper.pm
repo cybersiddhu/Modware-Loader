@@ -76,7 +76,8 @@ sub find_or_create_cvrow {
     if ( $self->has_cvrow($cv) ) {
         return $self->get_cvrow($cv);
     }
-    my $cvrow = $self->schema->resultset('Cv::Cv')
+    my $cvrow
+        = $self->schema->resultset('Cv::Cv')
         ->find_or_create( { name => $cv } );
     $self->set_cvrow( $cv, $cvrow );
     return $cvrow;

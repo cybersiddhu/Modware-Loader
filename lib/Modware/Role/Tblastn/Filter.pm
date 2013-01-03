@@ -96,7 +96,7 @@ HIT:
                 $plus_hit->add_hsp($hsp);
             }
         }
-        $new_result->add_hit($plus_hit)  if $plus_hit->num_hsps  =~ /^\d+$/;
+        $new_result->add_hit($plus_hit)  if $plus_hit->num_hsps =~ /^\d+$/;
         $new_result->add_hit($minus_hit) if $minus_hit->num_hsps =~ /^\d+$/;
 
         $self->inc_global_hit_count;
