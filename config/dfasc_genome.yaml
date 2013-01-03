@@ -1,7 +1,0 @@
-logfile: log/dfasc_mito.log
-log_level: info
-dsn: 'dbi:Oracle:host=dictyvm;sid=dictybase'
-user: DPUR_CHADO
-password: DPUR_CHADO
-link_publication: 18413355
-prefix: DFA

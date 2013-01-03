@@ -1,7 +1,0 @@
-logfile: log/ppal_mito.log
-log_level: info
-dsn: 'dbi:Oracle:host=dictyvm;sid=dictybase'
-user: DPUR_CHADO
-password: DPUR_CHADO
-link_publication: 'DC9698C3-A086-3EFD-90E8-65EAF9EEA709'
-prefix: PPA

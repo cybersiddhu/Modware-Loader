@@ -1,7 +1,0 @@
-logfile: log/pallidum_assembly.log
-log_level: error
-dsn: 'dbi:Oracle:host=dictyvm;sid=dictybase'
-user: DPUR_CHADO
-password: DPUR_CHADO
-link_publication: 21757610 
-prefix: PPA
