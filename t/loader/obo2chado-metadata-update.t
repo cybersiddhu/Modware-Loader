@@ -60,6 +60,12 @@ subtest 'updating metadata from obo file' => sub {
         },
         "should have IEP synonym for expression pattern evidence"
     );
+    count_alt_id_ok(
+        $schema,
+        { 'cv' => 'eco', 'count' => 7, 'db' => 'ECO' },
+        "should have 7 alt ids in eco ontology"
+    );
+
 
 
     @ARGV = ( @cmd, '--input', $data_dir->subdir('obo')->file('eco.obo') );
@@ -99,6 +105,44 @@ subtest 'updating metadata from obo file' => sub {
         },
         "should have a new comment for structural similarity evidence term after update"
     );
+    count_alt_id_ok(
+        $schema,
+        { 'cv' => 'eco', 'count' => 7, 'db' => 'ECO' },
+        "should have 7 alt ids after update"
+    );
+
+    drop_schema();
+};
+
+
+subtest 'updating alt_id metadata from obo file' => sub {
+    my $schema    = chado_schema( custom_fixture => $obo_fixture );
+    my $dbmanager = get_dbmanager_instance();
+
+    my $loader    = new_ok('Modware::Load');
+    my @cmd       = (
+        'obo2chado', '--dsn', $dbmanager->dsn, '--user',
+        $dbmanager->user, '--password', $dbmanager->password
+    );
+    push @cmd, '--pg_schema', $dbmanager->schema_namespace
+        if $dbmanager->can('schema_namespace');
+    local @ARGV = ( @cmd, '--input',
+        $data_dir->subdir('obo')->file('xenopus_anatomy_old.obo') );
+
+    count_alt_id_ok(
+        $schema,
+        { 'cv' => 'eco', 'count' => 5, 'db' => 'XAO' },
+        "should have 7 alt ids in xenopus anatomy ontology"
+    );
+
+    @ARGV = ( @cmd, '--input', $data_dir->subdir('obo')->file('xenopus_anatomy_new.obo') );
+    lives_ok { $loader->run } "should update xenopus anatomy ontology";
+    count_alt_id_ok(
+        $schema,
+        { 'cv' => 'eco', 'count' => 13, 'db' => 'ECO' },
+        "should have 7 alt ids after update"
+    );
+
     drop_schema();
 };
 
